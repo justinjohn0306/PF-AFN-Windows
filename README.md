@@ -8,21 +8,21 @@ Official code for CVPR 2021 paper 'Parser-Free Virtual Try-on via Distilling App
 [[Checkpoints]](https://drive.google.com/file/d/1_a0AiN8Y_d_9TNDhHIcRlERz3zptyYWV/view?usp=sharing)
 
 ## Test Environment
-anaconda3
+Anaconda3
 
-pytorch 1.1.0
+PyTorch 1.1.0
 
-torchvision 0.3.0
+Torchvision 0.3.0
 
-cuda 10.0
+CUDA 10.0
 
-cupy 6.0.0
+CuPy 6.0.0
 
-opencv-python 4.5.1
+OpenCV-Python 4.5.1
 
 1 RTX2080 GPU
 
-python 3.6
+Python 3.6
 
 ## Installation
 conda create -n tryon python=3.6
